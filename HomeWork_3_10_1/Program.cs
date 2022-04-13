@@ -6,7 +6,8 @@ namespace HomeWork_3_10_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Введите целое число");
+            int k = int.Parse(Console.ReadLine());
         }
     }
 }
